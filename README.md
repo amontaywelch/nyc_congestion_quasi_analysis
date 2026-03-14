@@ -2,6 +2,9 @@
 
 This analysis aims to understand the initial impact of New York City's newly implemented "congestion fee" within the city's ridesharing landscape, with a focus on the Central Business District and its surrounding boroughs. By doing this, ridesharing companies such as Uber and Lyft can take these trends to better position drivers, adjust pricing strategy, and most importantly, retain the existing customer base. 
 
+
+![dashboard](nyc_rideshare_report.png)
+
 # Project Background
 On January 5, 2025, the city of New York officially kick-started a $1.50 "congestion fee" to be applied to ridesharing trips, specifically in Manhattan south of and including 60th street. Traveling by car in such a densely populated area can be a pain for both drivers and riders. Drivers are required to enter a zone that is one of the most congested urban corridors in the country, while riders now have to pay an extra fee on top of other fees and standard rates, potentially causing frustration on both sides. All of this matters because the city thrives on ridesharing, drivers need to feel rewarded for providing a critical service, and customers need to feel like the service isn't just trying to take money from them. 
 
