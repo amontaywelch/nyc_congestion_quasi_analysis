@@ -2,7 +2,7 @@
 
 This analysis aims to understand the initial impact of New York City's newly implemented 
 "congestion fee" within the city's ridesharing landscape, with a focus on the Central 
-Business District and its surrounding boroughs. By doing this, ridesharing companies such 
+Business District and its surrounding boroughs. By doing this, high-volume ridesharing companies such 
 as Uber and Lyft can take these trends to better position drivers, adjust pricing strategy, 
 and most importantly, retain the existing customer base.
 
